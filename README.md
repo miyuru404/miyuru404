@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm miyuru bashitha</h1>
+<h1 align="center">Hi, I'm miyuru bashitha</h1>
 <h3 align="center">Computer Science Student | Full-Stack & Android Developer | Passionate About Scalable & Mobile Solutions | Sri Lanka 🇱🇰ing Full-Stack Technologies | Based in Sri Lanka</h3>
 
 - 🔭 I’m currently working on [SPELLO](spello100)
