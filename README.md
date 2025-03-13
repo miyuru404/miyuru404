@@ -1,26 +1,26 @@
-# Hi, I'm Miyuru Bashitha 👋  
+# Hi, I'm Miyuru Bashitha 
 
-🎓 **Computer Science Student** | 🌍 **Full-Stack & Android Developer** | 📱 **Passionate About Scalable & Mobile Solutions** | 🇱🇰 Sri Lanka  
+ **Computer Science Student** | 🌍 **Full-Stack & Android Developer** | 📱 **Passionate About Scalable & Mobile Solutions** | 🇱🇰 Sri Lanka  
 
-## 🔭 Current Work  
+##  Current Work  
 - Working on **SPELLO**, a new and exciting project  
 - Developing mobile and web solutions using modern technologies  
 
-## 🌱 Learning Journey  
+##  Learning Journey  
 Currently improving my skills in:  
-- Flutter & Dart 🚀  
-- Jetpack Compose & Kotlin 📱  
-- Backend Development with Spring Boot 🌐  
+- Flutter & Dart   
+- Jetpack Compose & Kotlin   
+- Backend Development with Spring Boot  
 
-## 📫 Contact Me  
-📧 Email: **miyurubashitha100@gmail.com**  
+##  Contact Me  
+   Email: **miyurubashitha100@gmail.com**  
 
-## 🌍 Connect With Me  
+##  Connect With Me  
 - **GitHub**: [miyuru404](https://github.com/miyuru404)  
 - **LinkedIn**: [Miyuru Bashitha Dayananda](https://www.linkedin.com/in/miyurubashitha11)  
 - **Twitter/X**: [@miyurubashitha11](https://twitter.com/miyurubashitha11)  
 
-## 🛠️ Languages & Tools  
+##  Languages & Tools  
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
@@ -30,4 +30,4 @@ Currently improving my skills in:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 
-🚀 Always excited to learn new technologies and build scalable applications!  
+ Always excited to learn new technologies and build scalable applications!  
