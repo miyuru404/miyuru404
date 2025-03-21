@@ -18,7 +18,7 @@ Currently improving my skills in:
 ##  Connect With Me  
 - **GitHub**: [miyuru404](https://github.com/miyuru404)  
 - **LinkedIn**: [Miyuru bashitha](https://www.linkedin.com/in/miyurubashitha11)  
-- **Medium**: [Miyuru bashitha](medium.com/@miyurubashitha100).
+- **Medium**: [Miyuru bashitha](https://medium.com/@miyurubashitha100).
 
 ##  Languages & Tools  
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)  
